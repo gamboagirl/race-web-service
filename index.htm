@@ -32,7 +32,7 @@ $(document).ready(function() {
         // JSON version
         type: "GET",
         dataType: "json",
-        url: "data/favoritebooks.js",
+        url: "data/races2run.js",
         success: parseJSON
         /* XML version
         dataType: "XML",
@@ -44,19 +44,23 @@ $(document).ready(function() {
 
     // JSON parser
 function parseJSON(data){
-	$.each(data.books, function(i,item){
+	$.each(data.races, function(i,item){
 	
-		var text = '<b>Title</b>:' + item.title + '<br />';
-		text += '<b>Author</b>:' + item.author + '<br />';
-		text += '<b>Category</b>:' + item.category + '<br />';
-		text += '<b>Publishing Date</b>:' + item.pubdate + '<br />';
-		text += '<b>ISBN</b>:' + item.isbn + '<br />';
-	
-		$('<li></li>').html(text).appendTo('#books');  
+		var text = '<b>Name</b>: ' + item.name + '<br />';
+		text += '<b>Sponsor</b>: ' + item.sponsor + '<br />';
+		text += '<b>Distance</b>: ' + item.distance + '<br />';
+		text += '<b>Date</b>: ' + item.date + '<br />';
+		text += '<b>Month</b>: ' + item.month + '<br />';
+ 		text += '<b>City</b>: ' + item.city + '<br />';
+		text += '<b>State</b>: ' + item.state + '<br />';
+		text += '<b>Website</b>: ' + item.url + '<br />';
+        text += '<br />';
+        
+		$('<p></p>').html(text).appendTo('#races');  
 	});
 }
 /// XML parser
-function parseXML(xml) 
+/*function parseXML(xml) 
 {  
 	$(xml).find("Book").each(function()
 	{
@@ -74,14 +78,14 @@ function parseXML(xml)
 
 		$('<li></li>').html(text).appendTo('#books');
 	});     
-}
+}*/
 
     
 </script>
 </head>
 	<body>
-		<ul id="books">
-			<h1>My Favorite Books</h1>
+		<ul id="races">
+			<h1>Races 2015</h1>
 		</ul>
 	</body>
 </html>
