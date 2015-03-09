@@ -1,0 +1,164 @@
+[
+  {
+    "Name":"520 Bar & Grill",
+    "Address":"10146 Main Street",
+    "City":"Bellevue",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Amore Chocolates",
+    "Address":"10149 Main Street",
+    "City":"Bellevue",
+    "Dog friendly location":"inside"
+  },
+  {
+    "Name":"Chipotle",
+    "Address":"10503 NE 4th Street",
+    "City":"Bellevue",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Chipotle",
+    "Address":"775 NW Gilman Blvd",
+    "City":"Issaquah",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Jamba Juice",
+    "Address":"417 Ramsay Way, Suite 107",
+    "City":"Kent",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Johnny Rockets",
+    "Address":"418 Ramsey Way",
+    "City":"Kent",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Hector's Restaurant",
+    "Address":"112 Lake St S",
+    "City":"Kirkland",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Olive You and the Tervelli Ultralounge",
+    "Address":"89 Kirkland Avenue",
+    "City":"Kirkland",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Victors Celtic Coffee Company",
+    "Address":"7993 Gilman Street",
+    "City":"Redmond",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Norm's Eatery & Ale House",
+    "Address":"460 N 36th St",
+    "City":"Seattle",
+    "Dog friendly location":"inside"
+  },
+  {
+    "Name":"The Duchess",
+    "Address":"2827 Northeast 55th Street",
+    "City":"Seattle",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Portage Bay Caf�",
+    "Address":"4130 Roosevelt Way NE",
+    "City":"Seattle",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Le Pichet",
+    "Address":"1933 1st Ave",
+    "City":"Seattle",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Bark Espresso",
+    "Address":"11335 Roosevelt Way NE",
+    "City":"Seattle",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"The Stone House",
+    "Address":"16244 Cleveland St",
+    "City":"Redmond",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Malt & Vine",
+    "Address":"16851 Redmond Way",
+    "City":"Redmond",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Tipsy Cow",
+    "Address":"16345 Cleveland St.",
+    "City":"Redmond",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Purple Cafe & Wine Bar ",
+    "Address":"323 Park Pl",
+    "City":"Kirkland",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"The Flatstick Pub",
+    "Address":"15 Lake St.",
+    "City":"Kirkland",
+    "Dog friendly location":"inside"
+  },
+  {
+    "Name":"Purple Cafe & Wine Bar ",
+    "Address":"14559 Woodinville-Redmond Rd NE",
+    "City":"Woodinville",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Panera Bread",
+    "Address":"Northeast 161st Place",
+    "City":"Woodinville",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Paddy Coynes Irish Pub",
+    "Address":"700 Bellevue Way",
+    "City":"Bellevue",
+    "Dog friendly location":"patio"
+  },
+  {
+    "Name":"Beveridge Place Pub",
+    "Address":"6413 California Ave SW",
+    "City":"Seattle",
+    "Dog friendly location":"inside"
+  },
+  {
+    "Name":"Belltown Pub",
+    "Address":"2322 1st Ave.",
+    "City":"Seattle",
+    "Dog friendly location":"inside"
+  },
+  {
+    "Name":"The Leary Traveler",
+    "Address":"4354 Leary Way N.W.",
+    "City":"Seattle",
+    "Dog friendly location":"inside"
+  },
+  {
+    "Name":"The Dray",
+    "Address":"708 N.W. 65th St.",
+    "City":"Seattle",
+    "Dog friendly location":"inside"
+  },
+  {
+    "Name":"Gilberts Bagel and Deli",
+    "Address":"10024 Main St",
+    "City":"Bellevue",
+    "Dog friendly location":"patio"
+  }
+]
