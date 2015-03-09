@@ -6,7 +6,8 @@
 		"distance": "5K",
 		"date": "01/16/2015",
         "month": "January",
-		"location": "Anaheim, CA",
+		"city": "Anaheim",
+        "state": "WA",
         "url": "http://www.rundisney.com"
 		},
         {
@@ -15,7 +16,8 @@
 		"distance": "5K",
 		"date": "03/01/2015",
         "month": "March",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.hotchocolate15k.com/seattle/"
 		},
         {
@@ -24,7 +26,8 @@
 		"distance": "5K",
 		"date": "03/14/2015",
         "month": "March",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.therewillbepie.com/"
 		},
         {
@@ -33,7 +36,8 @@
 		"distance": "5K",
 		"date": "04/26/2015",
         "month": "April",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://promotionevents.com/TopPot5K/Info.htm"
 		},
         {
@@ -42,7 +46,8 @@
 		"distance": "5K",
 		"date": "05/09/2015",
         "month": "May",
-		"location": "Bothell, WA",
+		"city": "Bothell",
+        "state": "WA",
         "url": "http://www.uwb.edu/5krun"
 		},
         {
@@ -51,7 +56,8 @@
 		"distance": "5K",
 		"date": "07/25/2015",
         "month": "July",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.seafair.com/AnEvent.aspx?ID=7&SecID=893"
 		},
         {
@@ -60,7 +66,8 @@
 		"distance": "5K",
 		"date": "09/13/2015",
         "month": "September",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.promotionevents.com/WOW/Info.html"
 		},
         {
@@ -69,7 +76,8 @@
 		"distance": "5K",
 		"date": "10/18/2015",
         "month": "October",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://depts.washington.edu/alumni/blogs/dawgdash/"
 		},
         {
@@ -78,7 +86,8 @@
 		"distance": "5K",
 		"date": "11/26/2015",
         "month": "November",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://seattleturkeytrot.org/"
 		},
         {
@@ -87,7 +96,8 @@
 		"distance": "8K",
 		"date": "07/25/2015",
         "month": "July",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.seafair.com/AnEvent.aspx?ID=7&SecID=893"
 		},
 		{
@@ -96,8 +106,19 @@
 		"distance": "10K",
 		"date": "01/17/2015",
         "month": "January",
-		"location": "Anaheim, CA",
+		"city": "Anaheim",
+        "state": "CA",
         "url": "http://www.rundisney.com"
+		},
+        {
+		"name": "Portland Rock 'n' Roll 10K", 
+		"sponsor": "Rock 'n' Roll",
+		"distance": "10K",
+		"date": "05/17/2015",
+        "month": "May",
+		"city": "Portland",
+        "state": "OR",
+        "url": "http://runrocknroll.competitor.com/portland"
 		},
         {
 		"name": "Seattle Marathon 10K Race", 
@@ -105,8 +126,29 @@
 		"distance": "10K",
 		"date": "08/22/2015",
         "month": "August",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.seattlemarathon.org/"
+		},
+        {
+		"name": "Beat the Blerch 10K", 
+		"sponsor": "The Oatmeal",
+		"distance": "10K",
+		"date": "09/12/2015",
+        "month": "September",
+		"city": "Carnation",
+        "state": "WA",
+        "url": "http://www.beattheblerch.com/"
+		},
+        {
+		"name": "Beat the Blerch 10K", 
+		"sponsor": "The Oatmeal",
+		"distance": "10K",
+		"date": "09/13/2015",
+        "month": "September",
+		"city": "Carnation",
+        "state": "WA",
+        "url": "http://www.beattheblerch.com/"
 		},
         {
 		"name": "Dawg Dash 10K", 
@@ -114,7 +156,8 @@
 		"distance": "10K",
 		"date": "10/18/2015",
         "month": "October",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://depts.washington.edu/alumni/blogs/dawgdash/"
 		},
         {
@@ -123,7 +166,8 @@
 		"distance": "10K",
 		"date": "09/13/2015",
         "month": "September",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.promotionevents.com/WOW/Info.html"
 		},
         {
@@ -132,7 +176,8 @@
 		"distance": "15K",
 		"date": "03/01/2015",
         "month": "March",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.hotchocolate15k.com/seattle/"
 		},
 		{
@@ -141,15 +186,37 @@
 		"distance": "13.1 miles",
 		"date": "01/18/2015",
         "month": "January",
-		"location": "Anaheim, CA",
+		"city": "Anaheim",
+        "state": "CA",
         "url": "http://www.rundisney.com"
+		},
+        {
+		"name": "San Francisco Rock 'n' Roll Half Marathon", 
+		"sponsor": "Rock 'n' Roll",
+		"distance": "13.1 miles",
+		"date": "03/29/2015",
+        "month": "March",
+		"city": "San Francisco",
+        "state": "CA",
+        "url": "http://runrocknroll.competitor.com/san-francisco"
+		},
+        {
+		"name": "Portland Rock 'n' Roll Half Marathon", 
+		"sponsor": "Rock 'n' Roll",
+		"distance": "13.1 miles",
+		"date": "05/17/2015",
+        "month": "May",
+		"city": "Portland",
+        "state": "OR",
+        "url": "http://runrocknroll.competitor.com/portland"
 		},
         {
 		"name": "Seattle Rock 'n' Roll Half Marathon", 
 		"sponsor": "Seafair",
 		"distance": "13.1 miles",
 		"date": "06/13/2015",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://runrocknroll.competitor.com/seattle"
 		},
         {
@@ -158,7 +225,8 @@
 		"distance": "13.1 miles",
 		"date": "06/21/2015",
         "month": "June",
-		"location": "Vancouver, WA",
+		"city": "Vancouver",
+        "state": "WA",
         "url": "http://www.vancouverusamarathon.com/"
 		},
 
@@ -168,8 +236,29 @@
 		"distance": "13.1 miles",
 		"date": "06/28/2015",
         "month": "June",
-		"location": "Vancouver, BC",
+		"city": "Vancouver",
+        "state": "BC",
         "url": "http://www.canadarunningseries.com/svhm/"
+		},
+        {
+		"name": "Beat the Blerch Half Marathon", 
+		"sponsor": "The Oatmeal",
+		"distance": "13.1 miles",
+		"date": "09/12/2015",
+        "month": "September",
+		"city": "Carnation",
+        "state": "WA",
+        "url": "http://www.beattheblerch.com/"
+		},
+        {
+		"name": "Beat the Blerch Half Marathon", 
+		"sponsor": "The Oatmeal",
+		"distance": "13.1 miles",
+		"date": "09/13/2015",
+        "month": "September",
+		"city": "Carnation",
+        "state": "WA",
+        "url": "http://www.beattheblerch.com/"
 		},
         {
 		"name": "Seattle Half Marathon", 
@@ -177,7 +266,8 @@
 		"distance": "13.1 miles",
 		"date": "11/29/2015",
         "month": "November",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.seattlemarathon.org/"
 		},
         {
@@ -186,7 +276,7 @@
 		"distance": "26.2 miles",
 		"date": "06/13/2015",
         "month": "June",
-		"location": "Seattle, WA",
+		"city": "Seattle, WA",
         "url": "http://runrocknroll.competitor.com/seattle"
 		},
         {
@@ -195,7 +285,8 @@
 		"distance": "26.2 miles",
 		"date": "06/21/2015",
         "month": "June",
-		"location": "Vancouver, WA",
+		"city": "Vancouver",
+        "state": "WA",
         "url": "http://www.vancouverusamarathon.com/"
 		},
         {
@@ -204,7 +295,8 @@
 		"distance": "26.2 miles",
 		"date": "11/29/2015",
         "month": "November",
-		"location": "Seattle, WA",
+		"city": "Seattle",
+        "state": "WA",
         "url": "http://www.seattlemarathon.org/"
 		},
         {
@@ -213,7 +305,8 @@
 		"distance": "Relay",
 		"date": "07/17-18/2015",
         "month": "July",
-		"location": "Washington",
+		"city": "Blaine",
+        "state": "Washington",
         "url": "http://www.ragnarrelay.com/race/northwestpassage"
 		}
 	]
