@@ -6,7 +6,7 @@ if(isset($_REQUEST['cat']))
 	switch($_REQUEST['cat'])
 	{
         	case "races2run":
-			include('data/races2run.js');
+			include('data/races2run.json');
 			break;
 		case "races2runbydistance":
 			include('data/races2runbydistance.json');
