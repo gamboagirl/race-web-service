@@ -29,7 +29,16 @@ body {font-family:georgia;font-size:12px;}
 $(document).ready(function() {            
 	//alert("jQuery is working!");
     
-    $('.month').click(function(e){
+    $.ajax({
+        // JSON version
+        type: "GET",
+        dataType: "json",
+        url: "data/races2run.json",
+        success: parseJSON
+	}); 
+        
+    
+    $('.category').click(function(e){
         e.preventDefault();
         cat = $(this).attr("href");  //get category from URL
 		loadAJAX(cat);  //load AJAX and parse JSON file
@@ -46,7 +55,7 @@ function loadAJAX(cat){
         success: parseJSON,
 	});
     
-    $('#races').html('Races ' + cat);
+    $('#races').html('<h1>Races by ' + cat + '</h1>');
 
 }
 
@@ -72,8 +81,8 @@ function parseJSON(data){
 </script>
 </head>
     <body>
-	<a href="month" class="category">month</a><br />
-	<a href="state" class="category">state</a>
+	<a href="state" class="category">Races by State</a><br />
+	<a href="distance" class="category">Races by Distance</a>
 		<ul id="races">
 			<h1 id="head">Races 2015</h1>
 		</ul>

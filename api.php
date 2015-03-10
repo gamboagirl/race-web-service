@@ -5,16 +5,14 @@ if(isset($_REQUEST['cat']))
 {
 	switch($_REQUEST['cat'])
 	{
-        	case "races2run":
-			include('data/races2run.json');
+        case "state":
+			include('data/races2runbystate.json');
 			break;
-		case "races2runbydistance":
+		case "distance":
 			include('data/races2runbydistance.json');
-		case "fiction":
-			include('data/fiction.js');
 			break;
 		default:
-			include('data/non-fiction.js');
+			include('data/races2run.json');
 	}
 }else{
 
